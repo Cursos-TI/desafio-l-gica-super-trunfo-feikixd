@@ -65,5 +65,5 @@ int main() {
         printf("Resultado: %s venceu!\n", cidade2);
     }
 
-    return 0;h
+    return 0;
 }
